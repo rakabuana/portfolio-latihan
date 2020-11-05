@@ -40,7 +40,7 @@ div .foto1 img{
 	height: 470px;
 }
 .aboutmeshadow{
-	text-shadow: 1px 1px 4px black;
+	text-shadow: 4px 2px 2px black;
 }
 .skill{
 	height: 400px;
@@ -123,7 +123,9 @@ div .foto1 img{
 }
 
 
-
+.portfolio{
+	min-height: 500px;
+}
 
 
 
