@@ -11,9 +11,13 @@ nav{
 	min-height: 20px;
 	}
 
-
 .jumbotron{
 	height: 420px;
+	background-image: url(img/laptop1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
 }
 
 .button{
@@ -26,7 +30,7 @@ nav{
 }
 
 .namasaya{
-	text-shadow: 3px 3px 10px white;
+	text-shadow: 5px 5px 10px black;
 }
 
 div .foto1 img{
@@ -43,7 +47,7 @@ div .foto1 img{
 	text-shadow: 4px 2px 2px black;
 }
 .skill{
-	height: 400px;
+	min-height: 400px;
 	background-image: url(img/laptop.jpg);
 	background-attachment: fixed;
 	background-size: cover;
