@@ -46,7 +46,7 @@ div .foto1 img{
 .aboutmeshadow{
 	text-shadow: 4px 2px 2px black;
 }
-.skill{
+.services{
 	min-height: 400px;
 	background-image: url(img/laptop.jpg);
 	background-attachment: fixed;
@@ -55,7 +55,7 @@ div .foto1 img{
 	overflow: hidden;
 }
 
-.services{
+.skill{
 	height: 550px;
 }
 
